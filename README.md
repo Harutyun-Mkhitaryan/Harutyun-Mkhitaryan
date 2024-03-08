@@ -1,6 +1,6 @@
 - 👋Hi, I’m @Harutyun-Mkhitaryan
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning React.js, Javascript
+- 🌱 I’m currently learning React.js, TypeScript
 - 💞️ I’m looking to collaborate  ...
 - 📫 How to reach me harutyun.mkhitaryann@gmail.com
 - ⚡ Fun fact: I’m a Junior FrontEnd Developer
